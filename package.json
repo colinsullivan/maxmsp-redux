@@ -1,0 +1,14 @@
+{
+  "name": "maxmsp-redux",
+  "version": "0.0.1",
+  "description": "Dispatch Redux.js actions from Max/MSP and receive state updates from Node.js to Max.",
+  "main": "action_creator_example.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Colin Sullivan <colin@colin-sullivan.net>",
+  "license": "MIT",
+  "dependencies": {
+    "redux": "^4.0.1"
+  }
+}
